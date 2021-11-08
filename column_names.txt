@@ -1,0 +1,10 @@
+0   dependent_count q
+1   total_relationship_count    q
+2   months_inactive_12_mon  q
+3   contacts_count_12_mon   q
+4   credit_limit    q
+5   total_revolving_bal q
+6   total_amt_change_q4_q1  q
+7   total_trans_amt q
+8   total_count_change_q4_q1    q
+9   avg_utilization_ratio   q
