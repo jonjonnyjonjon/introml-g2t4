@@ -46,4 +46,7 @@ The top five features from this XGBoost model are: total_trans_count, total_revo
 
 ### Contributors
 1. Joshua Wong Yeung Nguon ([LinkedIn](https://www.linkedin.com/in/joshuawong96/), [Github](https://github.com/joshuawong96))
-2. Ow Ling Jia ([LinkedIn](https://www.linkedin.com/in/owlingjia/), [Github](https://github.com/owlingjia))
+2. Keith Chiang 
+3. Ow Ling Jia ([LinkedIn](https://www.linkedin.com/in/owlingjia/), [Github](https://github.com/owlingjia))
+4. Wong Hon Tang, Jonathan
+5. Yuen Huiqi
