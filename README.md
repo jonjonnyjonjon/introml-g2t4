@@ -1,5 +1,7 @@
-# introml-g2t4 (Predicting Customer Credit Card Churn)
-This project was one of the assessment components for the Singapore Management University (SMU) module CS421 - Introduction to Machine Learning.
+# Predicting Customer Credit Card Churn
+This project was one of the assessment components for the Singapore Management University (SMU) module CS421: Introduction to Machine Learning.
+
+#### 🚦Project Status: Completed
 
 ---
 
@@ -12,7 +14,7 @@ This project was one of the assessment components for the Singapore Management U
 
 ---
 
-## Description
+## Project Description
 With retail banking becoming increasingly competitive recent years, effective customer retention strategies are necessary for traditional financial institutions (FIs) such as banks and credit card companies because an attrited customer is a loss in revenue. Credit cards are an especially important source of revenue for FIs, however, these financial products are often exploited by "churners" who repeatedly open and close credit cards in order to benefit from the sign-up bonuses. Through machine learning, we can discover hidden insights from customer financial activity datasets. Through these insights, FIs may then more concretely ‘define’ retention and proactively offer further personalized promotions and offers to retain the right customers.
 
 ## Dataset & Preprocessing
@@ -45,8 +47,79 @@ The top five features from this XGBoost model are: total_trans_count, total_revo
 
 
 ### Contributors
-1. Joshua Wong Yeung Nguon ([LinkedIn](https://www.linkedin.com/in/joshuawong96/), [Github](https://github.com/joshuawong96))
-2. Keith Chiang 
-3. Ow Ling Jia ([LinkedIn](https://www.linkedin.com/in/owlingjia/), [Github](https://github.com/owlingjia))
-4. Wong Hon Tang, Jonathan
-5. Yuen Huiqi
+<table>
+    <thead>
+        <td>Name</td>
+        <td>LinkedIn</td>
+        <td>GitHub</td>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Joshua Wong Yeung Nguon</td>
+            <td>
+                <a href="https://www.linkedin.com/in/joshuawong96/" target="blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/joshuawong96" target="blank">
+                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+                </a>                
+            </td>
+        </tr>
+        <tr>
+            <td>Keith Chiang</td>
+            <td>
+                <a href="https://www.linkedin.com/in/keith-chiang-gw/" target="blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/keithkifo" target="blank">
+                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+                </a>                
+            </td>
+        </tr>
+        <tr>
+            <td>Ow Ling Jia</td>
+            <td>
+                <a href="https://www.linkedin.com/in/owlingjia/" target="blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/owlingjia" target="blank">
+                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+                </a>                
+            </td>
+        </tr>
+        <tr>
+            <td>Wong Hon Tang, Jonathan</td>
+            <td>
+                <a href="https://www.linkedin.com/in/jonathan-htwong/" target="blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/jonjonnyjonjon" target="blank">
+                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+                </a>                
+            </td>
+        </tr>
+        <tr>
+            <td>Yuen Huiqi</td>
+            <td>
+                <a href="https://www.linkedin.com/in/yuenhuiqi/" target="blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/yuenhuiqi" target="blank">
+                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+                </a>                
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
