@@ -6,7 +6,7 @@ This project was one of the assessment components for the Singapore Management U
 ---
 
 ### Table of Contents
-- [Description](#Description)
+- [Project Description](#ProjectDescription)
 - [Dataset & Preprocessing](#Dataset)
 - [Preprocessing](#Preprocessing)
 - [Modelling & Results](#Modelling)
@@ -50,8 +50,7 @@ The top five features from this XGBoost model are: total_trans_count, total_revo
 <table>
     <thead>
         <td>Name</td>
-        <td>LinkedIn</td>
-        <td>GitHub</td>
+        <td>Socials</td>
     </thead>
     <tbody>
         <tr>
@@ -60,11 +59,9 @@ The top five features from this XGBoost model are: total_trans_count, total_revo
                 <a href="https://www.linkedin.com/in/joshuawong96/" target="blank">
                     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
                 </a>
-            </td>
-            <td>
                 <a href="https://github.com/joshuawong96" target="blank">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-                </a>                
+                </a>      
             </td>
         </tr>
         <tr>
@@ -73,11 +70,9 @@ The top five features from this XGBoost model are: total_trans_count, total_revo
                 <a href="https://www.linkedin.com/in/keith-chiang-gw/" target="blank">
                     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
                 </a>
-            </td>
-            <td>
                 <a href="https://github.com/keithkifo" target="blank">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-                </a>                
+                </a>    
             </td>
         </tr>
         <tr>
@@ -86,11 +81,9 @@ The top five features from this XGBoost model are: total_trans_count, total_revo
                 <a href="https://www.linkedin.com/in/owlingjia/" target="blank">
                     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
                 </a>
-            </td>
-            <td>
                 <a href="https://github.com/owlingjia" target="blank">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-                </a>                
+                </a>
             </td>
         </tr>
         <tr>
@@ -99,8 +92,6 @@ The top five features from this XGBoost model are: total_trans_count, total_revo
                 <a href="https://www.linkedin.com/in/jonathan-htwong/" target="blank">
                     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
                 </a>
-            </td>
-            <td>
                 <a href="https://github.com/jonjonnyjonjon" target="blank">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
                 </a>                
@@ -112,11 +103,9 @@ The top five features from this XGBoost model are: total_trans_count, total_revo
                 <a href="https://www.linkedin.com/in/yuenhuiqi/" target="blank">
                     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
                 </a>
-            </td>
-            <td>
                 <a href="https://github.com/yuenhuiqi" target="blank">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-                </a>                
+                </a>    
             </td>
         </tr>
     </tbody>
